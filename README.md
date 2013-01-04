@@ -2,6 +2,10 @@
 
 Follow `Part A` of the guide, then open up the project, or follow both `Part A` and `Part B` to make a project from scratch
 
+I made this repository because I had a lot of trouble getting the Dev Environment set up for Android development with Scala even though the guides I did follow definitely helped.
+
+I hope that you find it useful, please send me a pull-request or make an issue if there is some problem.
+
 # Configuring Android Dev Environment with Scala
 
 Forked from this guide: https://github.com/jberkel/android-plugin/wiki/Getting-started
