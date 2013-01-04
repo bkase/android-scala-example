@@ -1,0 +1,7 @@
+# gitignore for android scala example
+
+target/
+*.un~
+gen/
+workspace.xml
+
